@@ -1,0 +1,4 @@
+AddDefaultCharset UTF-8
+php_value mbstring.internal_encoding UTF-8
+php_flag magic_quotes_gpc Off
+ErrorDocument 404 /page404.html

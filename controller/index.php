@@ -1,0 +1,1 @@
+<?php defined('STAKANPAKET') or die('Access denied'); ?>
